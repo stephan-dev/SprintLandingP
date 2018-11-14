@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+
+@import url("https://fonts.googleapis.com/css?family=Abel|Josefin+Sans|KoHo|Open+Sans+Condensed:300|Poppins|Quicksand|Raleway");
+@import "components/*"; 
+
+body {
+	font-family: "Josefin Sans"
+}
+
+h2 {
+	text-align: center;
+	font-family: KoHo;
+}
